@@ -1,6 +1,3 @@
-The MAKS model and its tank are heavily adapted from a model on buran.ru - please consider that when contemplating reuse.
-
-Other elements of this mod are are under Creative Commons with Attritubtion:
 
 Creative Commons Attribution 3.0 United States
 https://creativecommons.org/licenses/by/3.0/us/
